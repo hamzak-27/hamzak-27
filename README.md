@@ -44,7 +44,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🤖 AI/ML Project Contributions 🤖</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hamzak-27/hamzak-27/output/github-contribution-grid-snake.svg" />
   
@@ -65,14 +65,6 @@
 <br/><br/>
 
 <hr/>
-
-<div align="center">
-  <h3>🔥 Featured AI/ML Projects 🔥</h3>
-  <br/>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzak-27&repo=YourAIProject&theme=react)](https://github.com/hamzak-27/YourAIProject)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzak-27&repo=YourLLMProject&theme=react)](https://github.com/hamzak-27/YourLLMProject)
-</div>
 
 <br/>
 <br/>
