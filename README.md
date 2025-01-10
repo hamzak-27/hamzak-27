@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzak-27.hamzak-27" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Khan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I+am+Hamza+Khan!;" />
 </h1>
 
 <h3 align="center">AI/ML Engineer | LLM Enthusiast</h3>
@@ -65,6 +65,19 @@
 <br/><br/>
 
 <hr/>
+
+<h3 align="center">🔝 Most used repositories</h3>
+<p align="center">
+  <a href="https://github.com/hamzak-27/YourRepo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzak-27&repo=YourRepo1&theme=react"/></a>
+  <a href="https://github.com/hamzak-27/YourRepo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hamzak-27&repo=YourRepo2&theme=react"/></a>
+</p>
+
+<h3 align="center">✨ Git profile Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="710" src="https://github-profile-trophy.vercel.app/?username=hamzak-27&column=8&theme=react&no-frame=false"/>
+  </a>
+</p>
 
 <br/>
 <br/>
