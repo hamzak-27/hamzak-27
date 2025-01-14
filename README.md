@@ -1,53 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzak-27.hamzak-27" />
+<h1 align="center">Hi there 👋, I'm Hamza</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Khan!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI/ML+Developer)](https://git.io/typing-svg)
 
-<h3 align="center">AI/ML Engineer | LLM Enthusiast</h3>
-<br/>
-<div align="center">
-🔭 I'm currently working on Large Language Models and Generative AI Applications
-🌱 I'm currently learning RAG, Vector Databases, LLMOps
-💬 Ask me about AI/ML, LLMs, Python, React... or anything here
-⚡ Fun fact The term "Artificial Intelligence" was first coined in 1956 at the Dartmouth Conference, marking the birth of AI as a field!
- </div>
-<div align="center"> 
-  <a href="mailto:ihamzakhan89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/hamzakhan27" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@ihamzakhan89" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
-<hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,supabase,mongodb,nextjs,mysql,flask,tensorflow" /><br>
-</div>
-<br/>
-<hr/>
-<div align="center">
-  <h2>🤖 AI/ML Project Contributions 🤖</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hamzak-27/hamzak-27/output/github-contribution-grid-snake.svg" />
-<br/><br/><br/>
-</div>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hamzak-27&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hamzak-27&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
-<br/>
-<br/>
+- 🔭 I'm currently working on: Apache Kafka Workflows
+- 🌱 I'm currently learning: CV, AI Agents and LLMs
+- 💬 Ask me about: Multimodal LLMs!
+- 📧 Email: [ihamzakhan89@gmail.com](mailto:ihamzakhan89@gmail.com)
+- <a href="https://www.linkedin.com/in/hamzakhan27" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamzakhan27)
+- <a href="https://medium.com/@ihamzakhan89" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="medium" width="18" height="18"/></a> Medium: [@ihamzakhan89](https://medium.com/@ihamzakhan89)
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzak-27&theme=dark&count_private=true)
+
+## Toolset
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&layout=compact&theme=onedark&count_private=true)
+
+![](https://komarev.com/ghpvc/?username=hamzak-27)
