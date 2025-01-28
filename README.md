@@ -7,7 +7,8 @@
 - 💬 Ask me about: Multimodal LLMs!
 - 📧 Email: [ihamzakhan89@gmail.com](mailto:ihamzakhan89@gmail.com)
 - <a href="https://www.linkedin.com/in/hamzakhan27" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamzakhan27)
-- <a href="https://medium.com/@ihamzakhan89" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="medium" width="18" height="18"/></a> Medium: [@ihamzakhan89](https://medium.com/@ihamzakhan89)
+- 🖥️ Medium: [@ihamzakhan89](https://medium.com/@ihamzakhan89) 
+
 
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzak-27&theme=dark&count_private=true&include_all_commits=true&show_icons=true)
 
