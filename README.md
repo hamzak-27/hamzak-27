@@ -9,7 +9,7 @@
 - <a href="https://www.linkedin.com/in/hamzakhan27" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamzakhan27)
 - <a href="https://medium.com/@ihamzakhan89" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="medium" width="18" height="18"/></a> Medium: [@ihamzakhan89](https://medium.com/@ihamzakhan89)
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzak-27&theme=dark&count_private=true)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzak-27&theme=dark&count_private=true&include_all_commits=true&show_icons=true)
 
 ## Toolset
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
