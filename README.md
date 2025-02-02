@@ -2,13 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI/ML+Developer)](https://git.io/typing-svg)
 
-- 🔭 I'm currently working on: Apache Kafka Workflows
+- 🔭 I'm currently working on: Building LLM tools
 - 🌱 I'm currently learning: CV, AI Agents and LLMs
 - 💬 Ask me about: Multimodal LLMs!
 - 📧 Email: [ihamzakhan89@gmail.com](mailto:ihamzakhan89@gmail.com)
 - <a href="https://www.linkedin.com/in/hamzakhan27" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamzakhan27)
 - 🖥️ Medium: [@ihamzakhan89](https://medium.com/@ihamzakhan89) 
-
 
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzak-27&theme=dark&count_private=true&include_all_commits=true&show_icons=true)
 
