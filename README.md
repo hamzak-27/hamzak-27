@@ -65,20 +65,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzak-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Hamza's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzak-27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9&bg_color=30,0d1117,161b22" alt="Hamza's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&layout=compact&langs_count=8&hide_border=true&title_color=a371f7&text_color=c9d1d9&bg_color=30,0d1117,161b22" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzak-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=hamzak-27&hide_border=true&background=0D1117&border=0D1117&stroke=a371f7&ring=a371f7&fire=a371f7&currStreakNum=c9d1d9&currStreakLabel=a371f7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzak-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzak-27&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzak-27&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzak-27/hamzak-27/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzak-27/hamzak-27/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hamzak-27/hamzak-27/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
