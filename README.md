@@ -1,26 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Hamza</h1>
+<h1 align="center">Hi 👋, I'm Hamza Khan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=AI/ML+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Building+LLM-powered+tools+%F0%9F%A4%96;Multimodal+%26+Agentic+AI+enthusiast;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I'm currently working on: Building LLM tools
-- 🌱 I'm currently learning: CV, AI Agents and LLMs
-- 💬 Ask me about: Multimodal LLMs!
-- 📧 Email: [ihamzakhan89@gmail.com](mailto:ihamzakhan89@gmail.com)
-- <a href="https://www.linkedin.com/in/hamzakhan27" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamzakhan27)
-- 🖥️ Medium: [@ihamzakhan89](https://medium.com/@ihamzakhan89) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzakhan27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@ihamzakhan89" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:ihamzakhan89@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hamzak-27&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+</p>
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzak-27&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
+---
 
+### 🚀 About Me
 
-## Toolset
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
-<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-<a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+- 🔭 I'm currently working on **building LLM-powered tools**
+- 🌱 I'm currently learning **Computer Vision, AI Agents, and LLMs**
+- 💬 Ask me about **Multimodal LLMs**
+- ⚡ I enjoy turning research ideas into working products
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&layout=compact&theme=onedark&count_private=true)
+---
 
-![](https://komarev.com/ghpvc/?username=hamzak-27)
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Frameworks & Databases**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzak-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Hamza's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzak-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzak-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzak-27&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center"><i>⭐️ Feel free to explore my repositories and connect!</i></p>
