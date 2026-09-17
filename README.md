@@ -108,11 +108,5 @@ operational load.
 
 **B.Tech, Artificial Intelligence and Machine Learning** — Thakur College of Engineering and Technology, University of Mumbai &nbsp;·&nbsp; *2025* &nbsp;·&nbsp; CGPA 9.35/10
 
----
 
-## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzak-27&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub statistics for hamzak-27" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzak-27&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages by hamzak-27" />
-</p>
