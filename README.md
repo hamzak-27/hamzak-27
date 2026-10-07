@@ -28,7 +28,7 @@ operational load.
 
 - **Specialising in AI for Healthcare** — RCM automation, claims and billing pipelines, medical document extraction
 - **Independent NLP research** — retrieval-augmented generation and tokenization
-- **Incoming M.Sc. Applied Artificial Intelligence**, Hochschule Heilbronn
+- **M.Sc. Applied Artificial Intelligence**, Hochschule Heilbronn
 - **Also interested in** multimodal LLMs, agentic systems, and vision transformers
 
 ---
