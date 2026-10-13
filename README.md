@@ -2,7 +2,7 @@
 
 <p align="center">
   AI/ML Engineer specialising in <strong>AI for Healthcare</strong><br />
-  NLP Researcher &nbsp;·&nbsp; Founder at BotScribe
+  NLP Researcher &nbsp;·&nbsp; 
 </p>
 
 <p align="center">
@@ -53,9 +53,7 @@ operational load.
 - Developed a computer vision model for real-time advertisement detection in video streams.
 - Optimised inference latency to keep detection responsive under live conditions.
 
-**Founder** — BotScribe &nbsp;·&nbsp; *Present*
 
-- AI automation agency serving Indian small and mid-sized businesses.
 
 ---
 
