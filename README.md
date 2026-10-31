@@ -55,17 +55,7 @@ operational load.
 
 
 
----
 
-## Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **RCM Pipeline Automation** | End-to-end automation of healthcare revenue cycle workflows — claim intake, data extraction, validation, and billing handoff. | Python, LangChain, AWS, DigitalOcean, Multi-Agent AI Setup |
-| **Real-Time Ad Detection** | Computer vision pipeline that detects advertisements in live video streams, tuned for low-latency inference. | Python, OpenCV, PyTorch, Apache Kafka, Milvus Database, Docker |
-| **Vision Transformer from Scratch** | ViT implemented end to end in PyTorch, with training experiments and a written architecture breakdown. | PyTorch |
-| **CommuniSync AI** | Interview preparation platform that analyses live audio with transformer models and returns instant feedback on grammar and pronunciation. | Python, Transformers, NLP |
-| **OCR ID Information Extractor** | Automated extraction pipeline for ID documents, with a Streamlit interface for image and PDF uploads. | Amazon Textract, LangChain, AWS S3, Streamlit |
 
 ---
 
