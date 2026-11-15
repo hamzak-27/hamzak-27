@@ -1,8 +1,7 @@
-<h1 align="center">Mohammed Hamza Khan</h1>
+<h1 align="center">Hamza Khan</h1>
 
 <p align="center">
-  AI/ML Engineer specialising in <strong>AI for Healthcare</strong><br />
-  NLP Researcher &nbsp;·&nbsp; 
+  <strong>AI/ML Research Engineer</strong>
 </p>
 
 <p align="center">
@@ -21,15 +20,22 @@
 
 ## About
 
-I build production AI systems, with a focus on **healthcare** — revenue cycle
-automation, clinical document understanding, and compliance workflows. My work
-runs from research prototypes through to deployed services handling real
-operational load.
+I'm an AI engineer and researcher. I've built and shipped production AI systems end to end, from early prototypes to deployed services handling real workloads.
 
-- **Specialising in AI for Healthcare** — RCM automation, claims and billing pipelines, medical document extraction
-- **Independent NLP research** — retrieval-augmented generation and tokenization
-- **M.Sc. Applied Artificial Intelligence**, Hochschule Heilbronn
-- **Also interested in** multimodal LLMs, agentic systems, and vision transformers
+My research focuses on **efficient LLM inference**: making large models faster and cheaper to run without losing accuracy. I like to test ideas on real model weights, replicate results before trusting them, and publish the code and raw data.
+
+**Research interests**
+- Quantization and low-bit number formats (INT8, FP8, FP4)
+- Sparse attention and KV-cache efficiency
+- GPU kernels for inference
+- Efficient LLM architectures
+
+**Background**
+- Production AI engineering: LLM pipelines, automation systems
+- Independent AI/ML research
+- M.Sc. Applied Artificial Intelligence, Hochschule Heilbronn
+
+📫 Find my experiments and write-ups on [LinkedIn](https://linkedin.com/in/hamzakhan27) and X.
 
 ---
 
@@ -48,7 +54,7 @@ operational load.
 - Built document processing pipelines to extract and validate structured data from claims, EOBs, and payer correspondence.
 - Reduced manual touchpoints across the billing cycle through LLM-assisted classification and routing.
 
-**Data Science Intern** — Inventiff Analytics, Bangalore &nbsp;·&nbsp; *Nov 2024 – Feb 2025*
+**Data Scientist** — Inventiff Analytics, Bangalore &nbsp;·&nbsp; *Nov 2024 – Feb 2025*
 
 - Developed a computer vision model for real-time advertisement detection in video streams.
 - Optimised inference latency to keep detection responsive under live conditions.
@@ -90,11 +96,9 @@ operational load.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## Education
 
-**B.Tech, Artificial Intelligence and Machine Learning** — Thakur College of Engineering and Technology, University of Mumbai &nbsp;·&nbsp; *2025* &nbsp;·&nbsp; CGPA 9.35/10
+
 
 
 
